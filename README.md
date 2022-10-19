@@ -2,9 +2,8 @@
     <h1 align="center">Hi 👋, I'm Bernard.O</h1>
 <h3 align="center">A Blockchain Addict ---> Front End& Blockchain Developer.</h3>
 
-<img src="http://www.reddit.com/r/InterestingGifs/comments/2gfst1/real_life_footage_of_a_programmer/" alt="coding">
+<img src="https://media.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif" alt="coding">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bernardonuh" alt="bernardonuh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/i_am_bernard_o" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_bernard_o?logo=twitter&style=for-the-badge" alt="i_am_bernard_o" /></a> </p>
 
