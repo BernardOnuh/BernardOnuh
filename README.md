@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate with **Blockchain Developers in the world**
 
-- 💬 Ask me about **React,Solidity.**
+- 💬 Ask me about **Web3.**
 
 - 📫 How to reach me **onuhbernard4@gmail.com**
 
