@@ -1,13 +1,13 @@
  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="coding"><img>
     <h1 align="center">Hi 👋, I'm Bernard.O</h1>
-<h3 align="center">A Blockchain Addict ---> Front End& Blockchain Developer.</h3>
+<h3 align="center">Married to the BlockChain ---> Web3 Developer.</h3>
 
 <img src="https://media.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif" alt="coding">
 
 
 <p align="left"> <a href="https://twitter.com/i_am_bernard_o" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_bernard_o?logo=twitter&style=for-the-badge" alt="i_am_bernard_o" /></a> </p>
 
-- 🔭 I’m currently working with **Ophir & Polygon Africa**
+- 🔭 I’m currently working with  **POLYGON & OPHIR**
 
 - 👯 I’m looking to collaborate with **Blockchain Developers in the world**
 
