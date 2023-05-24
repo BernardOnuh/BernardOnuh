@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_bernard_o" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_bernard_o?logo=twitter&style=for-the-badge" alt="i_am_bernard_o" /></a> </p>
 
-- 🔭 I’m currently working with  **POLYGON & OPHIR**
+- 🔭 I’m currently working with  **VYPERIUM POLYGON & OPHIR**
 
 - 👯 I’m looking to collaborate with **Blockchain Developers in the world**
 
