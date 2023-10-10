@@ -5,7 +5,7 @@
 <img src="https://media.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif" alt="coding">
 
 
-<p align="left"> <a href="https://twitter.com/i_am_bernard_o" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_bernard_o?logo=twitter&style=for-the-badge" alt="i_am_bernard_o" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Bernard_O1" target="blank"><img src="https://img.shields.io/twitter/follow/Bernard_O1?logo=twitter&style=for-the-badge" alt="Bernard_O1" /></a> </p>
 
 - 🔭 I’m currently working with  **VYPERIUM, POLYGON & OPHIR**
 
