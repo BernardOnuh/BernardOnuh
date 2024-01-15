@@ -1,6 +1,6 @@
  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="coding"><img>
     <h3 align="center">Hi 👋, I'm Bernard.O</h3>
-<h3 align="center">Married to the BlockChain ---> Web3 Developer.</h3>
+<h5 align="center">Married to the BlockChain ---> Web3 Developer.</h5>
 
 <img src="https://media.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif" alt="coding">
 
