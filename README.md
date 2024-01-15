@@ -6,9 +6,8 @@
 
 
 <p align="left"> <a href="https://twitter.com/Bernard_O1" target="blank"><img src="https://img.shields.io/twitter/follow/Bernard_O1?logo=twitter&style=for-the-badge" alt="Bernard_O1" /></a> </p>
-<p align="left"> <a href="https://twitter.com/bedves_" target="blank"><img src="https://img.shields.io/twitter/follow/Bernard_O1?logo=twitter&style=for-the-badge" alt="Bernard_O1" /></a> </p>
 
-- 🔭 I’m currently working with  **POLYGON DEVS * OPHIR INSTITUTE * ZEIT PROTOCOL * VYPERIUM**
+- 🔭 I’m currently working with  **POLYGON DEVS  OPHIR INSTITUTE  ZEIT PROTOCOL  VYPERIUM**
 
 - 👯 I’m looking to collaborate with **Blockchain Developers in the world**
 
